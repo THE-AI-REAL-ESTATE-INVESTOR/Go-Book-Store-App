@@ -1,3 +1,9 @@
+## About
+- **What it is:** A sample bookstore app (Go back end, Next.js front end) built as a demonstration of building quickly in Go.
+- **Business:** learning
+- **Status:** inactive since 2024-12
+- **Source:** agent research 2026-11-04
+
 A simple bookstore application built with a **Go** backend (REST API) and a **Next.js** frontend. This app demonstrates a modular and structured approach to building modern web applications, complete with a CI/CD plan for streamlined development and deployment.
 
 ## Table of Contents
